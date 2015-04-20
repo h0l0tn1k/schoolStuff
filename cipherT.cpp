@@ -105,10 +105,10 @@ precompTable2   table2;
 precompTable3   table3;
 
 void processInSecureEnvironment() {
-    BYTE     key1;
-    int      key2;
-    BYTE     key3_1;
-    BYTE     key3_2;
+    BYTE     key1 = 'd';
+    int      key2 = 5236;
+    BYTE     key3_1 = 'f';
+    BYTE     key3_2 = 'h';
 
     memset(&table1, 0, sizeof(precompTable1));
     memset(&table2, 0, sizeof(precompTable2));
@@ -116,14 +116,14 @@ void processInSecureEnvironment() {
 
     cout << "### CipherT - Type I. ###" << endl;
     cout << "Type your key (0...255): ";
-    cin >> key1;
+    //cin >> key1;
     cout << endl << "Generating table type I...";
     makeTable1(key1, &table1);
     cout << "done"  << endl;
 
     cout << "### CipherT - Type II. ###" << endl;
     cout << "Type your key (one signed integer, 0...2^32): ";
-    cin >> key2;
+    //cin >> key2;
     cout << endl << "Generating table type II...";
     makeTable2(key2, &table2);
     cout << "done"  << endl;
@@ -132,31 +132,31 @@ void processInSecureEnvironment() {
     cout << "Type your first key (one byte, 0...255): ";
     //cin >> key3_1;
     cout << endl << "Type your second key (one byte, 0...255): ";
-    cin >> key3_2;
+    //cin >> key3_2;
     cout << endl << "Generating table type III...";
     makeTable3(key3_1, key3_2, &table3);
     cout << "done"  << endl;
 }
 
 void processInAttackerMachine() {
-    BYTE     data;
-    BYTE     data2;
+    BYTE     data = 'd';
+    BYTE     data2 ='3';
 
     cout << "### CipherT - Type I. ###" << endl;
     cout << "Type input data to encrypt (one byte, 0...255): ";
-    cin >> data;
+    //cin >> data;
     cout << endl << "Data '" << hex << (int) data << "' encrypted to '" << hex << (int) encrypt1(data, &table1) << "'" << endl;
 
     cout << "### CipherT - Type II. ###" << endl;
     cout << "Type input data to encrypt (first part) (one byte, 0...255): ";
     //cin >> data;
     cout << endl << "Type input data to encrypt (second part) (one byte, 0...255): ";
-    cin >> data2;
+    //cin >> data2;
     cout << endl << "Data '" << hex << (int) data << "','" << hex << (int) data2 << "' encrypted to '" << hex << (int) encrypt2(data, data2, &table2) << "'" << endl;
 
     cout << "### CipherT - Type III. ###" << endl;
     cout << "Type input data to encrypt (one byte, 0...255): ";
-    cin >> data;
+    //cin >> data;
     cout << endl << "Data '" << hex << (int) data << "' encrypted to '" << hex << (int) encrypt3(data, &table3) << "'" << endl;
 }
 
