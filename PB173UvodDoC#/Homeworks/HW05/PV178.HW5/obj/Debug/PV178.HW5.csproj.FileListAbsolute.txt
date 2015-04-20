@@ -1,0 +1,7 @@
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\bin\Debug\PV178.HW5.exe.config
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\obj\Debug\PV178.HW5.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\bin\Debug\Data\data.txt.gz
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\bin\Debug\PV178.HW5.exe
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\bin\Debug\PV178.HW5.pdb
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\obj\Debug\PV178.HW5.exe
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5\obj\Debug\PV178.HW5.pdb

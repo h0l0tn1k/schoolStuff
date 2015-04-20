@@ -1,0 +1,5 @@
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv03\Vector2d\bin\Debug\Vector2d.exe.config
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv03\Vector2d\bin\Debug\Vector2d.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv03\Vector2d\bin\Debug\Vector2d.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv03\Vector2d\obj\Debug\Vector2d.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv03\Vector2d\obj\Debug\Vector2d.pdb

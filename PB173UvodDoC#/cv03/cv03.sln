@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv03", "cv03\cv03.csproj", "{85783F42-F637-490E-B4D1-360296C5DC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2d", "Vector2d\Vector2d.csproj", "{F3623E26-B967-4F42-8A1A-76230ED3B8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legia", "Legia\Legia.csproj", "{DAADCE35-C065-43D3-89EE-F23EC5FF89D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85783F42-F637-490E-B4D1-360296C5DC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85783F42-F637-490E-B4D1-360296C5DC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85783F42-F637-490E-B4D1-360296C5DC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85783F42-F637-490E-B4D1-360296C5DC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3623E26-B967-4F42-8A1A-76230ED3B8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3623E26-B967-4F42-8A1A-76230ED3B8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3623E26-B967-4F42-8A1A-76230ED3B8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3623E26-B967-4F42-8A1A-76230ED3B8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAADCE35-C065-43D3-89EE-F23EC5FF89D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAADCE35-C065-43D3-89EE-F23EC5FF89D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAADCE35-C065-43D3-89EE-F23EC5FF89D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAADCE35-C065-43D3-89EE-F23EC5FF89D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

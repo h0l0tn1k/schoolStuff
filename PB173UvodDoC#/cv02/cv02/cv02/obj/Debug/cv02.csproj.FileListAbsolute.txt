@@ -1,0 +1,12 @@
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.exe.config
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.csprojResolveAssemblyReference.cache
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.pdb
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.exe.config
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.exe
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.pdb
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.exe
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\bin\Debug\cv02.pdb
+C:\Users\stefan\Desktop\C#Projects\PB173UvodDoC#\cv02\cv02\cv02\obj\Debug\cv02.csprojResolveAssemblyReference.cache

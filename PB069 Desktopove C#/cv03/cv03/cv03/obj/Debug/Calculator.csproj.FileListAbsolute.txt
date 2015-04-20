@@ -1,0 +1,9 @@
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\bin\Debug\Calculator.exe.config
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\bin\Debug\Calculator.exe
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\bin\Debug\Calculator.pdb
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\cv03.Form1.resources
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\cv03.Properties.Resources.resources
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\Calculator.csproj.GenerateResource.Cache
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\Calculator.exe
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\obj\Debug\Calculator.pdb

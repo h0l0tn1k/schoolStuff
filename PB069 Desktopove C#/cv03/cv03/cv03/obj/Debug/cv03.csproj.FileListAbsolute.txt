@@ -1,0 +1,2 @@
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\bin\Debug\cv03.exe.config
+J:\xmatta_CSharpProjects\PB069 Desktopove C#\cv03\cv03\cv03\bin\Debug\Calculator.exe.config

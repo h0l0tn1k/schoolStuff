@@ -1,0 +1,10 @@
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\bin\Debug\Music.exe.config
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\bin\Debug\Music.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\bin\Debug\Music.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.Form1.resources
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.Properties.Resources.resources
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\Priprava na vnitro\Music\Music\obj\Debug\Music.NewMusicForm.resources

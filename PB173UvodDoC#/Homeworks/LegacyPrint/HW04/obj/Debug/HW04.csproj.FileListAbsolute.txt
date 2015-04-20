@@ -1,0 +1,6 @@
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\bin\Debug\HW04.exe.config
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\bin\Debug\HW04.exe
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\bin\Debug\HW04.pdb
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\obj\Debug\HW04.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\obj\Debug\HW04.exe
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\LegacyPrint\HW04\obj\Debug\HW04.pdb

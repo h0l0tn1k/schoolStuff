@@ -1,0 +1,8 @@
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\bin\Debug\Data\data.txt.gz
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\bin\Debug\PV178.HW5.Tests.dll
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\bin\Debug\PV178.HW5.Tests.pdb
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\bin\Debug\PV178.HW5.exe
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\bin\Debug\PV178.HW5.pdb
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\obj\Debug\PV178.HW5.Tests.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\obj\Debug\PV178.HW5.Tests.dll
+C:\Users\stefan\Desktop\stefanmatta-\PB173UvodDoC#\Homeworks\HW05\PV178.HW5.Tests\obj\Debug\PV178.HW5.Tests.pdb

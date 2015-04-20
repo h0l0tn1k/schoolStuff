@@ -1,0 +1,168 @@
+﻿CourseCode;Teacher;Area;Course;Book;Edition;Author;Ibsn;New;Used;Rent
+AR202;Conyers;Art;Painting II: Watercolor;Everything You Ever Wanted to Know;;;0-82305649x;26;;
+AR203;Zerger;Art;Photography;Photography;10;Upton;0-205711499;133;;58
+AR210;Zerger;Art;Drawing II;Drawing Manual Vilppu;2;Vilppu;1-892053039;44;;
+AR230;Erwy-Shr;Art;Graphic Design I;;;;;;;
+G-AR350;Zerger;ART;Sculpture;Shaping Space;;Zelanshi;0534613934;;93;64
+AR475A;Conyers ;Art;Senior Concentration;Art Since 1940;;;0131839780;;52;
+G-AR131;Conyers;Art;Ceramics I;Make it in Clay;2;Speight;0076417011;68;;
+G-AR311;Zerger;ART;Art History II;Art History Vol II & ala carte lab;4;Stokstad;0-205795617;103;;
+AC206;O'Dell;Business Administration;Managerial Accounting;Accounting Concepts;11;Albrecht;1-111287856;;;
+AC306;O'Dell;Business Administration;Intermediate Acct. II;Intermediate Accounting ;18;Stice;0-538479736;;;
+AC320;Martin;Business Administration;Accounting Info Systems;Management Info Systems;10;Marakas;978-0073376813;219;137;89
+BA224;Whalen;Business Administration;Principles of Management;Management;;Williams;978-0757524028;96;;
+BA224;Whalen;Business Administration;Principles of Management;Leadership Wisdom of Jesus;;Manz;9781609940041;15;;
+BI315;Martin;Business Administration;Legal Environmnt of Bus;Business Law Today;;Miller;978-0324786156;103;103;60
+BA320;Martin;Business Administration;Management Info Systems;Management Info Systems;10;Marakas;978-0073376813;219;137;89
+BA326;Gselman;Business Administration;Financial Management II;;;;;;;
+BA327;Whalen;Business Administration;Consumer Behavior;Consumer Behavior;3;;0-840058519;;52;
+BA339;Martin;Business Administration;Human Resource Mngmnt;HR;1;Griffin;978-0538474238;;49;
+BA360;Whalen;Business Administration;Marketing Research;Marketing Research: A Practical Apprch;;Kolb;978-1412947978;;41;
+BA375;Whalen;Business Administration;Business Ethics (Jr Sem);Business Ethics Custom Textbook;;;978-1121367982;60;;
+BA475;Gselman;Business Administration;Business Strat & Policy;Strat & Policy Custom Textbook;;;978-1121401549;47;;
+BA475;Gselman;Business Administration;Business Strat & Policy;Strat & Policy Custom Textbook;;;978-1121401150;48;;
+EC202;Gselman;Business Administration;Survey of Economics;Understanding Modern Economics;;Miller;0321197534;;114;
+EC204;Weller;Business Administration;Elem Economics- Micro;Intro to Microeconomics ;4;Dolan;978-1602299610;;;52
+EC204;Weller;Business Administration;Elem Economics- Micro;Intro to Microeconomics Study Guide;4;Dolan;978-1602299641;;;
+EC460;Gselman;Business Administration;Investments;Fundamentals of Investments;6;Jordan;978-0073530710;214;;86
+EC460;Gselman;Business Administration;Investments;The Psychology of Investment;4;Nofsinger;0-136117031;;29;
+BI112;Ayella;Natural Sciences;College Biology;Custom Made Bio Book;;;978-0390996749;53;;
+BI225;Frye;Natural Sciences;Human Anatomy;Exploring Anatomy & Physiology in Lab;2;Amerman;978-0895828767;42;;
+BI373;Ayella;Natural Sciences;Cell Physiology;Same as Fall Semester;;Campbell;0495-39041-0;;;
+BI384;Wilgers;Natural Sciences;Molecular Genetics;Lewin's Genes X;10;Krebs;978-0763766320;;129;
+BI404;Frye;Natural Sciences;Biomedical Ethics;;;;;;;
+CH112;vanAsselt;Natural Sciences;College Chemistry II;Chemistry (same as first semester);7;Zumdahl;0-61852844x;;;
+CH251;Koralegdra;Natural Sciences;Organic Chemistry I;Organic Chemistry Text;2;Smith;978-0073049861;;55;
+CH251;Koralegdra;Natural Sciences;Organic Chemistry I;Lab book CH251;;CER;9780495642152;49;;
+CH373;Ayella;Natural Sciences;Biochemistry II;Same as Fall Semester;;;;;;
+CH385;vanAsselt;Natural Sciences;Adv Inorganic Chemistry;;;;;;;
+GNS100;Frye;Natural Sciences;Science in Society;Energy & the Environment:Choices &;;Toossi;978-1427647658;116;;
+GNS141;Wilgers;Natural Sciences;Environmental Science;Environnmental Science:A Global Conce;12;Cunning;978-0073383255;169;;90
+NS375;Frye;Natural Sciences;Junior Seminar;Writing Papers in The Biological Science;5;McMillan;0-312649711;32;;20
+PH206;vanAsselt;Natural Sciences;College Physics II;;;;;;;
+PH216;Koralegdra;Natural Sciences;General Physics II;;;;;;;
+G-CI150;Kirchner;Curriculum & Instruction;Intro to Education;Teachers, Schools & Society;2;Sadker;9780077294588;106;;
+CI101;ACCK;Curriculum & Instruction;Beg American Sign Lang;A Basic Course in American Sign Language;2;Humphries;0-932666434;52;;
+CI220;Kirchner;Curriculum & Instruction;Principles & Stratgs of Teach;Methods for Effective Teaching;7;Arends;013700804x;115;60;
+G-CI333;Maclin;Curriculum & Instruction;Intercultural Education;;;;;;;
+CI401;Conyers;Curriculum & Instruction;Methods of Tchng Art;;;;;;;
+CI407;ACCK;Curriculum & Instruction;Mthds for Teachng Math Sec;Styles & Strat for High Schl Math;1;Thomas;978-1412968355;39;;
+CI417;ACCK;Curriculum & Instruction;Methods of Tchng English &;Bridging English;1;Thomas;0-132486091;;74;
+CI455;Maclin;Curriculum & Instruction;Teaching Learning Process;Educational Psychology;5;Milner;0-132486091;;60;
+EE210;Kimbrell;Curriculum & Instruction;Children's Literature;;;;;;;
+EE305;D.Hoffmn;Curriculum & Instruction;Methods for Teachng PE;Teaching Elem PE-Strat for Classrm Tchr;;Hastie;0-805328343;;45;26
+EE307;Maclin;Curriculum & Instruction;Methods for Teachng Math;Teaching Student-Center Math K-3;1;vande walle;0-205408435;;27;14
+EE307;Maclin;Curriculum & Instruction;Methods for Teachng Math;Teaching Student-Center Math 3-5;1;vande walle;0-205408443;35;;20
+EE309;Kimbrell;Curriculum & Instruction;Methods for Teachng Social;Dynamic Social Studies for Elem Construct;9;Maxim;0-138132437;;69;30
+EE444;Kimbrell;Curriculum & Instruction;Reading and Lang Arts II;Same as first semester;;;;;;
+CM120;B Bowman;Communication;Intro to Human Communicat;Communication Mosaics;5;Wood;0534564860;;49;
+CM221;B Bowman;Communication;Intercultural Communication;E-Book Intercultural Business Communications;5;Chaney;0-132127911;;;
+CM305;Clary;Communication;Editing;Working with Words;;Wilson;0-312560796;;34;
+CM305;Clary;Communication;Editing;Associated Press Stylebook 2011;;;0-465021875;16;;
+CM340;B Bowman;Communication;Gender Communication;Gendered Lives;7;Wood;0-495006548;;45;
+EN313;Stanley;English;Expository Writing;Telling True Stories;;Kramer;978-0452287556;;7;
+EN313;Stanley;English;Expository Writing;Best American Essays 2011;;;978-0547479774;19;;
+EN335;Halliburtn;English;Advanced English Grammar;Practical Grammar & Comp;;Wood;9781103279753;25;;
+EN111A;Heffernan;English;College Rhetoric II ;Research Strategies:Finding Your Way;;Badke;0-59531371x;40;;
+EN111A;Heffernan;English;College Rhetoric II ;The Art of Styling Sentence;;Longknife;0-764121812;;4;
+EN111B;Stanley;English;College Rhetoric II ;Fast Food Nation;;Schlosser;978-0060838584;;7;4
+EN111B;Stanley;English;College Rhetoric II ;A Pocket Style Manual;;Hacket;978-0312664800;26;;
+EN111C;Clary;English;College Rhetoric II ;;;;;;;
+EN111C;Clary;English;College Rhetoric II ;;;;;;;
+EN111D;Yohn;English;College Rhetoric II ;One World Many Cultures;;Hirschberg;0205605451;;32;
+EN111E;Yohn;English;College Rhetoric II ;One World Many Cultures;;Hirschberg;0205605451;;32;
+EN111F;Tobias;English;College Rhetoric II ;They Say, I Say: The Moves that Matter in Acad ;2;Graff;0-39393361X;;15;
+EN220;Stanley;English;World Literature II;The Reluctant Fundamentalist;;Hamid;978-0156034029;;6;
+EN220;Stanley;English;World Literature II;Feasting, Fasting;;Desai;978-0618065820;;6;
+EN220;Stanley;English;World Literature II;Haroun and The Sea of Stories;;Rushdie;978-0140157376;;7;4
+EN220;Stanley;English;World Literature II;A Thousand Splendid Suns;;Hosseini;978-1594483851;;7;
+EN220;Stanley;English;World Literature II;Interpreter of Maladies;;Lahiri;978-0395927205;;6;
+EN235;Malaby;English;Slct Tpcs in Lit Men & Womn;Self-Made Man;;Vincent;0-670034665;;6;
+EN235;Malaby;English;Slct Tpcs in Lit Men & Womn;Reconstruction Gender;;Disch;978-0073380063;;59;
+EN345;Stanley;English;British Literature II;Norton Anthology of Eng Lit Major Auth;8;Greenblatt;0393928314;;36;
+EN270;Clary;ENGLISH;Fiction ;The Story and it's Writer ;;Charters;0-312596243;;36;20
+EN270;Clary;English;Fiction ;As I Lay Dying ;;Faulkner;0-67973225x;;6;
+EN270;Clary;English;Fiction ;Blankets ;;Thompson;1-891830430;;19;10
+HI120;Dobbins;History;World Civilization Since 1500;Ordinary Men: Reserve Police Battalion;;Browning;978-0060995065;;6;
+HI120;Dobbins;History;World Civilization Since 1500;The Earth and It's People Vol II;;Bulliet;978-0495902881;;33;
+HI202;Dobbins;History;American History Since 1865;A People & A Nation Vol II;9;Norton;0-495916269;46;;25
+HI205;Yohn;History;The American Automobile;The Automobile Age;;Flink;0262560550;;28;
+HI356;Yohn;History;American Diplomacy;US Diplomacy Since 1900 ;6;Schulzinger;0195320492;;29;18
+HI356;Yohn;History;American Diplomacy;20th Century in Documents;;Donaldson;0321105060;;54;
+HI356;Yohn;History;American Diplomacy;The Politics of U.S. Foreign Policy;5;Rosatti;0-495797243;;54;40
+HI361;Dobbins;History;Kansas History & Research;;;;;;;
+G-ID102;Staff;Interdisciplinary;ACE: Academic Comm Essntls;Thriving in College and Beyond ;2;Cuseo;978-0757572791;71;;
+G-ID201;Staff;Interdisciplinary;Sophomore Seminar;Citizen You;;Tisch;978-0307588487;31;18;
+G-ID201;Staff;Interdisciplinary;Sophomore Seminar;The Adv of Johnny Bunko;;Pink;978-1594482915;;6;
+G-ID201;Staff;Interdisciplinary;Sophomore Seminar;Strength Quest Code;;;;;;
+G-ID119;Stoesz;Interdisciplinary;Intermediate Algebra;Intermediate Algebra;2;Miller;0-077332113;163;;
+GMA105;Stoesz;Mathematics;College Algebra;College Algebra;;Sullivan;0-321716817;;103;60
+GMA221;Stoesz;Mathematics;Elem Appl Statistics ;The Basic Practice of Statistics ;;Moore;1-429201215;;88;
+MA112;Reynolds;Mathematics;Calculus II;Single Variable Calculus Vol 2;6;Stewart;978-0495384168;;55;
+MA342;Reynolds;Mathematics;Modern Geometry;Flatland: A Romance in High Dimensions;;Abbott;978-0486272634;;3;
+MA366;Reynolds;Mathematics;Differential Equations;Fundamentals of Differential Equations;8;Nagle;978-0321747730;;47;
+ML108;Amparan;Modern Languages;Level I Spanish;Exploraciones;6;;978-0759389434;114;85;
+ML108;Amparan;Modern Languages;Level I Spanish;Exploraciones Workbook-Activities Manual;;;978-0759389;55;;
+Ml109;Amparan;Modern Languages;Level II Spanish ;Exploraciones;6;;978-0759389434;114;85;
+ML109;Amparan;Modern Languages;Level II Spanish ;Exploraciones Workbook-Activities Manual;;;978-0759389;55;;
+ML209;Amparan;Modern Languages;Level IV Spanish;Atando Cabos;4;Gonzales;0-205770169;;75;
+ML209;Amparan;Modern Languages;Level IV Spanish;Atando Cabos -Activities Manual;4;Gonzales;978-0205784479;72;;
+ML308;Amparan;Modern Languages;Spanish Language Lit;Aproximaciones al estudio de la Literatura Hisp;;Friedman;978-0073385372;111;;
+ML308;Amparan;Modern Languages;Spanish Language Lit;Aura;;Fuentes;978-0374511715;;6;
+PA150;J Bowman;Designing and Drawing for the Theatre;Yoga;;;;;;;
+PA232;Gustafson;Designing and Drawing for the Theatre;Vocal Ensemble ;;;;;;;
+PA370;Tyler;Designing and Drawing for the Theatre;Theatrical Design;Designing and Drawing for the Theatre;;Pecktal;0-07557232x;;;
+GPE150;Hoffman;Physical Education;Concepts in Holistic Health;Wellness;8;Anspaugh;0-078022509;;68;
+GPE170;Swrtzndr;Physical Education;Personal & Comm Health;Focus on Health;10;Haun;0-07338089x;100;60;
+PE161;Hoffman;Physical Education;Intro: Indiv/Dual Sports;The PE Activity  Handbook;12;;0-321596309;104;88;
+PE210;Swrtzndr;Physical Education;Human Sexuality;Human Sexuality:Diversity in Contemporary Amer;6;Strong;978-0073129112;;67;
+PE280;Schoenwe;Physical Education;Care & Treatment of Ath Inj;Essentials of Athletic Injury Management;7;Prentice;0073-31023-9;;48;
+PE288;Hoffman;Physical Education;Psychology & Sociology of Sp;Sports Psych Concepts and App;6;Cox;0072972955;96;54;
+PE305;Hoffman;Physical Education;Methods of Teaching PE;Teaching Elem PE-Strat for Classrm Tchr;;Hastie;0-805328343;;45;26
+GPR102;Replogle;Philosophy and Religion ;Intro to New Testament;Intro to New Testament:A Historical, Lit;;Powell;0-80102868x;;23;
+GPR102;Replogle;Philosophy and Religion ;Intro to New Testament;;;;;;;
+PR104;Hurst;Philosophy and Religion ;Ethics ;;;;;;;
+PR202;Hoffman;Philosophy and Religion ;History of Christianity;Intro to Christianity;4;Weaver;9780495097266;103;74;45
+PR414;Frye;Philosophy and Religion ;Biomedical Ethics;;;;;;;
+PR303;Eaton;Philosophy and Religion ;Rdgs in Theology/Philosophy;The Old Religion in a New World;10;Noll;0-802849482;22;;
+PS356;Yohn;Political Science;American Diplomacy;US Diplomacy Since 1900 ;6;Schulzinger;0195320492;;29;18
+PS356;Yohn;Political Science;American Diplomacy;20th Century in Documents;;Donaldson;0321105060;;54;
+PS356;Yohn;Political Science;American Diplomacy;The Politics of U.S. Foreign Policy;5;Rosatti;0-495797243;122;;56
+PY101;Midgley;Exploring Psychology in Modules;Introduction to Psychology;Exploring Psychology in Modules;8;Myers;1-429216360;109;82;50
+PY204;Haritatos;Exploring Psychology in Modules;Child & Adolescent Dev;Developmental  Psychology;7;Shaffer;0-534632521;;68;
+PY210;Hoffman;Exploring Psychology in Modules;Human Sexuality;Human Sexuality: Diversity in Contemporary Am;6;Strong;978-0073129112;;67;
+PY254;Eells;Exploring Psychology in Modules;Parent-Child Relations;Parent Child Relations ;8;Bigner;978-0135002193;;64;37
+PY303;Midgley;Exploring Psychology in Modules;Social Psychology;Exploring Social Psychology;5;Myers;978-0073370644;;45;
+PY308;Haritatos;Exploring Psychology in Modules;Counceling;Counseling and Psychotherapy;2;Les Parrott;0534593372;;106;
+PY308;Haritatos;Exploring Psychology in Modules;Counceling;Workbook Counseling;;;0-534593380;48;;
+PY375;Midgley;Exploring Psychology in Modules;Junior Seminar;;;;;;;
+PY450;Midgley;Exploring Psychology in Modules;History & Systems of Psych;A History of Modern Psychology;9;Schultz;978-0495097990;;76;
+PY470;Johnson;Exploring Psychology in Modules;Developmental Psychopatho;Abnormal Child Psychology;4;Mash;0-495506273;;130;
+SE210;Maclin;Special Education ;Intro to Inf, Chd, Yth w/Sp Nds;Fundamentals of Special Educations;3;Werts;0-131714910;;51;
+SE310;ACCK;Special Education ;Found for Spec Ed Services;Exceptinal Learners:Intro to Spec Ed;12;Hallahan;978-0137033706;;89;
+SE315;ACCK;Special Education ;Gen Mthds for Spec Needs;Teaching Students With Learning Problems;8;Mercer;978-0137033782;;79;
+SE345;ACCK;Special Education ;Behavior Management;Skill Streaming the Elem/Adoles;;;TBA;;;
+SO202;Chin;Sociology;Minorities in the US;Racial & Ethic Groups;12;Schafer;0-205683665;;90;
+SO210;Hoffman;Sociology;Human Sexuality;Human Sexuality: Diversity in Contemporary Am;6;Strong;978-0073129112;;67;
+SO206;Chin;Sociology;Social Problems;Social Problems;4;Macionis;0-205749003;;79;
+GSO246;Eells;Sociology;Marriage and Family;Marriage & Family;11;Strong;978-0534624255;150;;60
+SO260;Haritatos;Sociology;Intro to Human Services;Theory, Practice, Trends in Human Services;1;Neukrug;9780495097136;;82;
+SO275;Chin;Sociology;Criminal Justice;Criminal Justice - A Brief Intro;8;Schmall;0-137145535;;51;
+SO303;Midgley;Sociology;Social Psychology;Exploring Social Psychology;5;Myers;978-0073370644;;45;
+SO308;Haritatos;Sociology;Counceling;Counseling and Psychotherapy;2;Les Parrott;0534593372;;106;
+SO308;Haritatos;Sociology;Counceling;Workbook Counseling;2;;0-534593380;48;;
+SO375;Haritatos;Sociology;Junior Seminar;;;;;;;
+SO401;Eells;Sociology;Sociological Theory;The Emergence of Socialogical Thought;6;Turner;0-495127280;;66;
+SO475;Chin;Sociology;Senior Seminar/Thesis;;;;;;;
+TE141;Stout;Technology;Engine Rebuilding;Auto Fundamentals ;;;1-566375770;76;;
+TE145;Nadeau;Technology;Drive Train Rebuilding;Manual Drive Trains;6;Birch;0-135123623;115;88;
+TE152;Barr;Technology;Sheet Metal Restoration;Ultimate Sheet Metal;;;0964135892;16;;
+TE152;Barr;Technology;Sheet Metal Restoration;Welders Handbook;;;1557882649;16;;
+TE162;Dickhudt;Technology;Technical Woodworking;Modern Woodworking;;;1590702530;51;;
+TE262;Green;Technology;Machining Technology;Machining Fundamentals;;;1590702492;71;;32
+TE271;Nadeau;Technology;Chassis Restoration;Auto Chasssis System;10;;0-135085039;115;;
+TE275;Green;Technology;Automotive Paint Restoration;Pro Paint & Body;;;1557883947;14;;
+TE281;Dove;Technology;Automotive Trim;How to Restore Auto Upholstery;;;0879389486;29;;
+TE360;Dickhudt;Technology;Electrical & Electronic Sysems;Electricity & Electronics;;Gerrish;978-1590708835;65;;32
+TE385;Paulsen;Technology;Restoration Assembly Proc;;;;;;;
+TE452;Barr;Technology;Advanced Sheet Metal Rest;Advanced Sheet Metal Fabrication;;;1-92913312x;27;;	

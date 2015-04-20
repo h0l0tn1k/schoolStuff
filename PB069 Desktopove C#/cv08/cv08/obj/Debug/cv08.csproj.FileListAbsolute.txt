@@ -1,0 +1,9 @@
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\bin\Debug\cv08.exe.config
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\bin\Debug\cv08.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\bin\Debug\cv08.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.csprojResolveAssemblyReference.cache
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.Form1.resources
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.Properties.Resources.resources
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.csproj.GenerateResource.Cache
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\stefanmatta-\PB069 Desktopove C#\cv08\cv08\obj\Debug\cv08.pdb

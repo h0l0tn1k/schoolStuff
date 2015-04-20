@@ -1,0 +1,5 @@
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv04\ukol\bin\Release\ukol.exe.config
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv04\ukol\bin\Release\ukol.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv04\ukol\bin\Release\ukol.pdb
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv04\ukol\obj\Release\ukol.exe
+\\ad.fi.muni.cz\DFS\home\xmatta\_profile\Desktop\xmatta_CSharpProjects\PB173UvodDoC#\cv04\ukol\obj\Release\ukol.pdb
