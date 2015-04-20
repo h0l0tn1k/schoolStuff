@@ -1,0 +1,15 @@
+env:
+  global:
+   # The next declaration is the encrypted COVERITY_SCAN_TOKEN, created
+   #   via the "travis encrypt" command using the project repo's public key
+   - secure: "cqzps9fW/rly2A0My8u6GX0LIMfwm8EIDvazHb+ccHqoo3srwqAmPZVmOc/XGHfhIwG8pJv+p9jWmTZd4Qbg6hlge7UghK1oiq/wk9Uh1yib3RPMYwTK9++DaSG4axE6blEFEgGaevpNCL+OgygiHdrMNzua+4BnziT57iXlAf4="
+
+addons:
+  coverity_scan:
+    project:
+      name: "h0l0tn1k/schoolStuff"
+      description: "Build submitted via Travis CI"
+    notification_email: 422255@mail.muni.cz
+    build_command_prepend: ""
+    build_command:   ""
+    branch_pattern: coverity_scan
